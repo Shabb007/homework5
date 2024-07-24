@@ -726,9 +726,15 @@ section {
     margin-bottom: 24px;
 }
 .form-check-input:checked + .form-check-label > .checkbox-span {
-    background-color: var(--ocean);
+    background-color: var(--press-color);
     border: none;
     fill: var(--cloud);
+}
+.form-check-label {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: var(--second-slate);  
 }
 .checkbox-span  {
 width: 16px;
