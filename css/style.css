@@ -565,10 +565,10 @@ section {
 .input:focus {
     border-color: var(--iris);
 }
-.subscrice {
+.subscribe {
     width: 264px;
     height: 40px;
-    border: 1px solid var(--white);
+    border: 1px solid var(--white-color);
     background-color: transparent;
     font-size: 12px;
     line-height: 2;
